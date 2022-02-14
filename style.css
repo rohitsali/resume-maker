@@ -1,0 +1,21 @@
+label{
+    font-weight: 600;
+}
+
+/* #cv-form{
+    display: none;
+} */
+
+#cv-templete{
+    display:none;
+}
+
+.my-img{
+    border-radius: 2px solid black;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.background{
+    background-color: #EEEEEE;
+}
